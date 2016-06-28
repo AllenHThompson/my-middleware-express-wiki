@@ -1,0 +1,6 @@
+GET /
+GET /HomePage
+GET /favicon.ico
+GET /
+GET /HomePage
+GET /favicon.ico
